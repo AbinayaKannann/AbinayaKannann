@@ -1,273 +1,272 @@
 <div align="center">
 
-<h1>Abinaya K</h1>
-
-<h3>BUILD • LEARN • CREATE • INNOVATE</h3>
-
-**Python Full-Stack Developer &nbsp;·&nbsp; Generative AI Enthusiast &nbsp;·&nbsp; Freelancer**
-
-Currently building projects with **Python, Django, React, AI & Modern Web Technologies**
-
-<p>
-I build full-stack web applications, explore Generative AI,<br/>
-and help transform ideas into practical software solutions.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,65:7c3aed,100:ec4899&text=ABINAYA%20K&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20GENAI%20%E2%80%A2%20FREELANCER&descAlignY=62&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=white)](mailto:abishree2511@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white)](https://github.com/AbinayaKannann)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2500&pause=900&color=F472B6&center=true&vCenter=true&width=800&lines=I+build+web+applications.;I+explore+Generative+AI.;I+solve+real-world+problems.;I+turn+ideas+into+software."/>
+
+<br/><br/>
+
+<a href="mailto:abishree2511@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335">
+</a>
+
+<a href="https://github.com/AbinayaKannann">
+<img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
 
 </div>
 
-<br/>
-
-## ⚡ What I Do
+---
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-<h3>💻</h3>
-<b>Develop</b>
-<br/>
-<sub>Building scalable web applications using Python, Django, Flask and React</sub>
+<td width="22%" align="center">
+
+<img src="https://github.com/AbinayaKannann.png?size=400" width="190">
+
 </td>
 
-<td width="25%" align="center" valign="top">
-<h3>🧠</h3>
-<b>Learn</b>
-<br/>
-<sub>Exploring Generative AI, LLMs, RAG and intelligent software systems</sub>
-</td>
+<td width="78%">
 
-<td width="25%" align="center" valign="top">
-<h3>🚀</h3>
-<b>Freelance</b>
-<br/>
-<sub>Helping clients build websites, automation tools and custom software solutions</sub>
-</td>
+## ⚡ DEVELOPER IDENTITY
 
-<td width="25%" align="center" valign="top">
-<h3>⚙️</h3>
-<b>Innovate</b>
-<br/>
-<sub>Combining AI and software engineering to create impactful applications</sub>
+| BUILD | LEARN | FREELANCE | INNOVATE |
+|:---:|:---:|:---:|:---:|
+| Full-Stack Apps | Generative AI | Client Solutions | Smart Systems |
+| REST APIs | LLM Applications | Web Development | Automation |
+| Django · React | Machine Learning | Custom Software | AI Integration |
+
 </td>
 </tr>
 </table>
 
-I work across the full development lifecycle — from frontend interfaces to backend systems, databases and AI integrations.
+---
 
-As a freelancer, I enjoy solving real-world problems through software while continuously learning and improving my technical skills.
-
-<br/>
-
-## 🛠️ Tech Stack
+# 🧠 WHAT I DO
 
 <table>
 <tr>
-<td valign="top" width="20%"><b>Languages</b></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+<td width="50%">
+
+### `01` — BUILD
+
+I design and develop modern web applications across frontend, backend and database layers.
+
+**Focus:** Django · Flask · React · REST APIs · MySQL · MongoDB
+
+</td>
+
+<td width="50%">
+
+### `02` — AI & GENAI
+
+I explore practical applications of Generative AI, LLMs and intelligent software systems.
+
+**Focus:** GenAI · RAG · LLM Applications · AI Chatbots
+
 </td>
 </tr>
 
 <tr>
-<td valign="top"><b>Frontend</b></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</td>
-</tr>
+<td>
 
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=django,flask,python" />
-</td>
-</tr>
+### `03` — FREELANCE
 
-<tr>
-<td valign="top"><b>Database</b></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</td>
-</tr>
+I help clients and businesses build software solutions tailored to their needs.
 
-<tr>
-<td valign="top"><b>AI / GenAI</b></td>
-<td valign="top">
-Generative AI · RAG · Prompt Engineering · LLM Applications
-</td>
-</tr>
+**Services:** Web Apps · Automation · Backend APIs · Database Systems
 
-<tr>
-<td valign="top"><b>Tools</b></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</td>
+
+<td>
+
+### `04` — GROW
+
+I continuously improve my skills through projects, experimentation and real-world problem solving.
+
+**Mindset:** Learn → Build → Improve → Deliver
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Featured Project
+# 🛠️ TECHNOLOGY STACK
 
 <table>
-<tr>
-<td width="65%" valign="top">
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,javascript,html,css"></td></tr>
 
-### 🤖 PDF Chat Bot Using RAG & Streamlit
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,html,css,js"></td></tr>
 
-**Status: Completed**
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=django,flask,python"></td></tr>
 
-An AI-powered PDF assistant that enables users to upload documents and interact with them using natural language queries.
+<tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mongodb"></td></tr>
 
-Built using Retrieval-Augmented Generation (RAG) techniques to provide context-aware responses from document content.
+<tr><td><b>AI / GenAI</b></td><td><code>Generative AI</code> · <code>LLMs</code> · <code>RAG</code> · <code>Prompt Engineering</code></td></tr>
 
-**Includes:**
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"></td></tr>
 
-PDF Upload · Document Processing · Semantic Search · RAG Pipeline · AI Chat Interface
+</table>
 
-</td>
+---
 
-<td width="35%" valign="top">
+# 🚀 FEATURED PROJECT
+
+## 🤖 PDF Chat Bot Using RAG & Streamlit
+
+**Status:** `COMPLETED`
+
+AI-powered document assistant that allows users to upload PDF files and ask questions in natural language.
+
+### Architecture
 
 ```text
-       Streamlit
-           │
-           ▼
-      RAG Pipeline
-           │
-           ▼
-      Vector Search
-           │
-           ▼
-        Gemini AI
-           │
-           ▼
-        Response
+     Streamlit
+         │
+         ▼
+     PDF Parser
+         │
+         ▼
+   Vector Database
+         │
+         ▼
+       RAG Layer
+         │
+         ▼
+      Gemini AI
+         │
+         ▼
+      Response
 ```
 
-</td>
-</tr>
-</table>
+**Core Features**
 
-`Python`
-`Streamlit`
-`RAG`
-`Generative AI`
+PDF Upload · Semantic Search · RAG Pipeline · AI Chat Interface · Context-Aware Answers
 
-## 💻 Projects
+---
+
+# 💻 SELECTED PROJECTS
 
 ### 🤖 PDF Chat Bot Using RAG & Streamlit
 
-AI-powered chatbot that enables users to query PDF documents using Retrieval-Augmented Generation techniques.
+AI-powered chatbot for querying PDF documents using Retrieval-Augmented Generation.
 
-`Python` `Streamlit` `RAG` `Generative AI`
+**Stack:** Python · Streamlit · RAG · Gemini AI
 
 ---
 
 ### 📄 PDF-Based Chat Bot Application
 
-Interactive chatbot capable of understanding and answering questions from uploaded PDF documents.
+Document-aware chatbot capable of answering questions based on uploaded PDFs.
 
-`Python` `LLM` `AI` `PDF Processing`
+**Stack:** Python · LLM · NLP
 
 ---
 
 ### 📝 Complaint Management System Using Flask
 
-A web application for registering, tracking and managing complaints efficiently through a centralized dashboard.
+Complaint registration and tracking system with centralized management features.
 
-`Flask` `Python` `MySQL`
+**Stack:** Flask · Python · MySQL
 
 ---
 
 ### 🛒 E-Commerce Web Application Using Django
 
-Full-stack e-commerce platform with authentication, product management, shopping cart and order management features.
+Full-stack e-commerce platform with authentication, product catalog and order management.
 
-`Django` `Python` `MySQL` `HTML` `CSS` `JavaScript`
+**Stack:** Django · MySQL · HTML · CSS · JavaScript
 
 ---
 
 ### 📊 Anomaly Detection Using Machine Learning
 
-Machine learning application for identifying unusual patterns and anomalies in datasets.
+Machine learning application designed to identify unusual patterns in datasets.
 
-`Python` `Machine Learning` `Data Analysis`
+**Stack:** Python · Machine Learning · Data Analysis
 
-## 🎓 Education
+---
 
-### Master of Science (M.Sc) – Computer Science
-
-Focused on software development, database systems, artificial intelligence and modern web technologies.
-
-**Core Interests**
-
-`Full Stack Development`
-`Generative AI`
-`Machine Learning`
-`Backend Engineering`
-
-## 🧑‍💼 Freelance Services
-
-✔ Full-Stack Web Development
-
-✔ Django & Flask Applications
-
-✔ React Frontend Development
-
-✔ REST API Development
-
-✔ Database Design & Integration
-
-✔ AI & Generative AI Projects
-
-✔ Python Automation Solutions
-
-## 🔭 Currently Exploring
-
-- Advanced Generative AI Applications
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- AI Agents & Workflows
-- React Ecosystem
-- Docker & Deployment
-
-## 🏗️ Engineering Mindset
+# 🎯 CURRENTLY EXPLORING
 
 ```text
-                    USER
-                      │
-                      ▼
-                REACT UI
-                      │
-                      ▼
-                 REST API
-                      │
-                      ▼
-            DJANGO / FLASK
-                      │
-              ┌───────┴───────┐
-              ▼               ▼
-           DATABASE      AI / RAG
-              │               │
-              └───────┬───────┘
-                      ▼
-                  RESPONSE
+Generative AI
+├── LLM Applications
+├── Prompt Engineering
+├── Retrieval-Augmented Generation
+└── AI Chat Systems
+
+Full Stack Development
+├── Django REST Framework
+├── React Applications
+├── API Development
+└── Database Design
+
+Machine Learning
+├── Data Analysis
+├── Model Development
+└── Predictive Systems
 ```
 
-I enjoy understanding the complete flow from **user interaction → frontend → backend → database → AI processing → final response**.
+---
 
-## 📊 GitHub Activity
+# 💼 FREELANCE SERVICES
 
-### Let's Build Something Meaningful 🚀
+<table>
+<tr>
+<td align="center">🌐<br><b>Web Apps</b></td>
+<td align="center">⚙️<br><b>Automation</b></td>
+<td align="center">🔗<br><b>REST APIs</b></td>
+<td align="center">🗄️<br><b>Databases</b></td>
+<td align="center">🤖<br><b>AI Solutions</b></td>
+</tr>
+</table>
 
-**Open to freelance projects, collaborations, internships and software development opportunities.**
+> **I enjoy building software that solves real problems and creates value for users.**
 
-📧 **Email:** abishree2511@gmail.com
+---
 
-🐙 **GitHub:** https://github.com/AbinayaKannann
+# 📊 GITHUB ACTIVITY
 
-💡 **Interested In:** Full Stack Development • Python Development • Generative AI • Machine Learning
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbinayaKannann&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinayaKannann&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=AbinayaKannann&theme=tokyonight&hide_border=true&background=00000000">
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+### Let's build something impactful together 🚀
+
+<a href="mailto:abishree2511@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-E11D48?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/AbinayaKannann">
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+### `BUILD • LEARN • FREELANCE • INNOVATE`
+
+*Full-Stack Development × Generative AI × Freelancing*
+
+</div>
